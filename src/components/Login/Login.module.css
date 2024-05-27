@@ -1,0 +1,26 @@
+.form {
+	margin: 0 auto;
+	padding: 20px;
+	width: 100%;
+	max-width: 400px;
+	border-radius: 10px;
+	background-color: rgb(63, 63, 63);
+}
+
+.inputWrap {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-bottom: 8px;
+}
+
+.input {
+	width: 100%;
+	border-radius: 5px;
+	border: none;
+	padding: 5px;
+}
+
+.button {
+	margin-top: 10px;
+}
